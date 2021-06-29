@@ -1,12 +1,12 @@
 # ND1309 C2 Ethereum Smart Contracts, Tokens and Dapps - Project Starter 
 
-ERC-721 Token name - Kova Star Token
-ERC-721 Token symbol - KST
+ERC-721 Token name - Kova Star Token  
+ERC-721 Token symbol - KST  
 
-Truffle version: v5.3.10(core: 5.3.10)
-Solidity version: 0.8.0
-Openzepelin version: @openzeppelin/contracts v4.1.0
-Contract address on rinkeby: 0x6DAcf9559aDD3b6f7e335bd91C043c6f3B969046
+Truffle version: v5.3.10(core: 5.3.10)  
+Solidity version: 0.8.0  
+Openzepelin version: @openzeppelin/contracts v4.1.0  
+Contract address on rinkeby: 0x6DAcf9559aDD3b6f7e335bd91C043c6f3B969046  
 
 
 ### Dependencies
